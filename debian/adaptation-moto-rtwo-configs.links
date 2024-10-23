@@ -1,0 +1,2 @@
+/usr/lib/adaptation-moto-rtwo/sources.list.d/community-moto-rtwo.list /etc/apt/sources.list.d/community-moto-rtwo.list
+/usr/lib/adaptation-moto-rtwo/trusted.gpg.d/community-moto-rtwo.gpg /etc/apt/trusted.gpg.d/community-moto-rtwo.gpg
