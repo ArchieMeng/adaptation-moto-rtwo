@@ -9,6 +9,7 @@ Standards-Version: 4.5.0.3
 Package: adaptation-moto-rtwo
 Architecture: arm64
 Depends: ${misc:Depends},
+         linux-bootimage-moto-rtwo,
          adaptation-hybris-api33-phone,
          adaptation-moto-rtwo-configs (= ${binary:Version}),
 Description: Community adaptation for moto-rtwo - metapackage
